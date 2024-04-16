@@ -1,5 +1,6 @@
-### Hi there 👋
+### Hi there, welcome to my Github profile 👋
 
+#### I'm Nahuel, I from Argentina🇦🇷 and I'm student of Computer Science💻
 <!--
 **cgalean0/cgalean0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
