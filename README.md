@@ -22,7 +22,7 @@ Aquí hay algunos proyectos en los que he estado trabajando recientemente:
 - **Port Scanner**: Escáner de puertos en Python para detectar servicios en una red local.
 
 ## Mis habilidades
-- **Lenguajes de programación**: Java, Python, JavaScript.
+- **Lenguajes de programación**: Java, Python, JavaScript, Haskell, Dafny.
 - **Frameworks y tecnologías**: Node.js, HTML, CSS.
 - **Herramientas de desarrollo**: Git.
 
